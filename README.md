@@ -1,6 +1,6 @@
 # Program Prediction Ants and Bees
 
-Making Virtual `Environment python`
+Making `Virtual `Environment` python
 ```
 python3 -m venv env
 ```
