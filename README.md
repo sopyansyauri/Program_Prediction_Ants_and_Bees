@@ -11,7 +11,7 @@ Activating Virtual Environment
 source env/bin/activate
 ```
 
-first of all, install module python that is needed
+Install module python that is needed
 ### Using Pip
 ```
 pip install -r requirement.txt
