@@ -16,3 +16,8 @@ Install module python that is needed
 ```
 pip install -r requirement.txt
 ```
+
+### Run Program
+```
+python3 antsAndBees.py <file to be predited> 
+```
