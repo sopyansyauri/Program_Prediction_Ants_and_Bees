@@ -21,3 +21,8 @@ pip install -r requirement.txt
 ```
 python3 antsAndBees.py <file to be predited> 
 ```
+
+### Example
+```
+python3 antsAndBees.py img/1.jpeg
+```
