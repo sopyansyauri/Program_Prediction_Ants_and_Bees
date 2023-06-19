@@ -19,7 +19,7 @@ pip install -r requirement.txt
 
 ### Run Program
 ```
-python3 antsAndBees.py <file to be predited> 
+python3 antsAndBees.py <file to be predicted> 
 ```
 
 ### Example
